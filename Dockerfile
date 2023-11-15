@@ -1,4 +1,4 @@
-FROM circleci/openjdk:11-jdk
+FROM cimg/openjdk:17.0
 
 USER root
 
